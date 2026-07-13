@@ -15,6 +15,7 @@ cd ghas-workshop
 git remote set-url origin https://github.com/advanced-security/ghas-workshop.git
 ```
 
+
 ## :books: Resources
 - [About code scanning](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning)
 - [About dependency scanning](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies)
